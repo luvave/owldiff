@@ -16,7 +16,7 @@
     <parent>
         <groupId>cz.cvut.kbss</groupId>
         <artifactId>owldiff-parent</artifactId>
-        <relativePath>owldiff-parent/pom.xml</relativePath> <!-- TODO: Add ../ to relativePath -->
+        <relativePath>../owldiff-parent/pom.xml</relativePath> <!-- TODO: Add ../ to relativePath -->
         <version>0.2.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
